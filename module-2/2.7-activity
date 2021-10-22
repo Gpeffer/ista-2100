@@ -1,0 +1,3 @@
+1. 'while' will perfrom a function while a conditional statement evaluates to true; 'until' will perform a function until a conditional statement evaluates to true.
+
+2. If using a 'while' statements, you may need to specificy in a subsequent conditional statement that the specified conditional for the 'while' statement is still true.
